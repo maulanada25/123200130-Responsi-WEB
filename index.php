@@ -38,8 +38,8 @@
                         <input type="password" name="password" class="mb-3 mt-1 p-2 rounded shadow-sm" style="width: 430px; border: none;"><br>
                     </div>
                     <div class="d-flex justify-content-center pt-3">
-                        <input type="submit" name="back" value="Back" class="btn btn-danger shadow-sm text-light fs-5 px-4 mx-2" style="min-width: min-content;">                            
-                        <input type="submit" name="login" value="Submit" class="btn btn-primary shadow-sm text-light fs-5 px-4" style="min-width: min-content;">         
+                        <!-- <input type="submit" name="back" value="Back" class="btn btn-danger shadow-sm text-light fs-5 px-4 mx-2" style="min-width: min-content;">                             -->
+                        <input type="submit" name="login" value="Login" class="btn btn-primary shadow-sm text-light fs-5 px-4" style="min-width: min-content;">         
                     </div>
                 </form>
             </div>

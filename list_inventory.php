@@ -50,6 +50,9 @@
             </ul>
             </div>
             </div>
+            <a href="process_logout.php">
+                <button style="background-color:red; color:white; margin-right:40px">Logout</button>
+            </a>
         </nav>
     </div>
 

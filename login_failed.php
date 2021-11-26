@@ -1,6 +1,6 @@
 <?php
     session_start();
-    $head = $_GET['head'];
+    // $head = $_GET['head'];
 ?>
 
 <!doctype html>
@@ -28,7 +28,7 @@
         <div class="box p-5 pb-4 m-5" style="background-color: #e0cbaf; min-width: min-content; min-height: min-content; border-radius: 5%">
             <div class="boxContent">
                 <h2 class="text-center" style="text-shadow: 2px 2px 3px white;">Login Failed! <br> Please Try Again</h2>
-                <a href="form_login.php" class="d-flex justify-content-center">
+                <a href="index.php" class="d-flex justify-content-center">
                     <input type="submit" name="submit" value="OK" class="btn btn-primary shadow-sm text-light fs-5 px-4 mt-4" style="min-width: min-content;">         
                 </a>
             </div>
